@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
+# HOW TO RUN
+
+Run 'npm install' to install required dependencies.
+
+Run 'ng serve' to run the angular app
+
+Start the MEAN Stack backend
+
+cd backend to enter into the backend folder
+
+'nodemon server' to start the nodemon server
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
