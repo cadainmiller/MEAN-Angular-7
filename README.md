@@ -4,15 +4,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # HOW TO RUN
 
-Run 'npm install' to install required dependencies.
+Run `npm install` to install required dependencies.
 
-Run 'ng serve' to run the angular app
+Run `ng serve` to run the angular app
 
 Start the MEAN Stack backend
 
 cd backend to enter into the backend folder
 
-'nodemon server' to start the nodemon server
+`nodemon server` to start the nodemon server
 
 ## Development server
 
